@@ -22,3 +22,7 @@ yarn run dev
 
 ### 如何搭建
 搭建过程可以查看这篇文章[点击](https://github.com/wuqiren/blog/issues/1)
+
+### 预览
+
+[preview](https://wuqiren.github.io/fish-webpack/)
